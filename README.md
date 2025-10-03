@@ -34,10 +34,4 @@ This project helped me reinforce my HTML and CSS fundamentals, especially in bui
 
 ---
 
-**Live Demo:** _[Add your live demo link here]_
-
-**Solution:** _[Add your solution repository link here]_
-
----
-
 Thanks to [devChallenges.io](https://devchallenges.io/) for the challenge!
